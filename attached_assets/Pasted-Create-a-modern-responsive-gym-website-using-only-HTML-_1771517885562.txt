@@ -1,0 +1,74 @@
+Create a modern, responsive gym website using only HTML, CSS, and vanilla JavaScript.
+
+Theme: Neon Modern (Cyberpunk inspired)
+Style: Dark background with neon purple and electric blue glow accents.
+
+Design Requirements:
+- Fully responsive (mobile, tablet, desktop)
+- Smooth scrolling
+- Light animations (fade-in on scroll, hover glow effects, button transitions)
+- Clean and modern layout
+- Use Google Fonts (modern bold font for headings)
+- No CSS frameworks (no Bootstrap or Tailwind)
+
+Color Palette:
+- Background: #0f0f0f or near black
+- Neon Purple: #a855f7
+- Electric Blue: #3b82f6
+- Text: White and light gray
+- Use glow effects with box-shadow and text-shadow
+
+Sections Required:
+
+1. Hero Section
+   - Full-screen height
+   - Bold heading like: "Train Insane or Remain The Same"
+   - Subheading
+   - Neon glowing CTA button: "Join Now"
+   - Background overlay with gym-related image
+
+2. About Section
+   - Short description of the gym
+   - 3 feature cards (Modern Equipment, Certified Trainers, Flexible Timings)
+   - Cards should have hover glow effect
+
+3. Programs Section
+   - Grid layout with 4 programs (Strength Training, Weight Loss, Cardio, Personal Training)
+   - Each card with neon border animation on hover
+
+4. Pricing Section
+   - 3 pricing plans (1 Month, 6 Months, 1 Year)
+   - Highlight the recommended plan with stronger neon glow
+   - Animated hover effect
+
+5. Contact Section
+   - Phone number (click-to-call using tel: link)
+   - WhatsApp button (wa.me link format)
+   - Contact form with name, email, message
+   - Simple JavaScript form validation
+   - Success alert on submission
+
+6. Footer
+   - Social media icons
+   - Copyright text
+
+Extra Features:
+- Scroll reveal animation using JavaScript (Intersection Observer)
+- Smooth navbar scrolling
+- Sticky navbar
+- Mobile hamburger menu with animation
+- Neon animated border for buttons
+- Subtle animated background gradient
+
+Make the code well-structured:
+- Separate files: index.html, style.css, script.js
+- Clean indentation
+- Comment important sections
+
+Ensure:
+- Fast loading
+- Minimal dependencies
+- Modern UI feel
+- Attractive and professional design
+
+Deliver complete working code.
